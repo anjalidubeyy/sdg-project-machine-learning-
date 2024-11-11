@@ -1,8 +1,8 @@
 # sdg-project-machine-learning-
-Project Overview
+**Project Overview**
 This project aims to predict the progress towards achieving global health-related SDG targets using machine learning techniques. By analyzing health indicators (such as life expectancy, maternal mortality rates, and infant mortality rates) across different regions, this project helps to understand health disparities and predict trends that can assist in shaping policies and interventions for global health improvement.
 
-Key Components:
+**Key Components:**
 Data Preprocessing: Cleaning the dataset, handling missing values, encoding categorical variables, and scaling features.
 Exploratory Data Analysis (EDA): Visualizing and understanding patterns in health indicators across regions.
 Machine Learning Models: Implementing regression models (e.g., Linear Regression), classification models (e.g., K-Nearest Neighbors, SVM), and ensemble methods (e.g., Random Forest, Decision Trees).
